@@ -1124,6 +1124,9 @@ ul.slimmenu.slimmenu-collapsed li .slimmenu-sub-collapser > i {
 .gap-small {
   margin: 15px 0 15px 0;
 }
+.gap-big {
+  margin: 50px 0 15px 0;
+}
 .gap-mini {
   margin: 10px 0 10px 0;
 }
@@ -1629,6 +1632,8 @@ ul.slimmenu.slimmenu-collapsed li .slimmenu-sub-collapser > i {
   float: right;
   margin-left: 15px;
 }
+
+
 .box-icon-left + .thumb-caption,
 .box-icon-right + .thumb-caption,
 .thumb-header-right + .thumb-caption,
